@@ -112,7 +112,7 @@ public class TfliteReactNativeModule extends ReactContextBaseJavaModule {
             });
 
     for (int i = 0; i < labels.size(); ++i) {
-      int confidence = labelProb[0][i];
+      int confidence = labelProb[0][i] & 0xFF;
       if (confidence > threshold) {
         WritableMap res = Arguments.createMap();
         res.putInt("index", i);
