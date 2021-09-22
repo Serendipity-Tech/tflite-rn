@@ -1,0 +1,9 @@
+com/reactlibrary/BuildConfig.java
+ com.reactlibrary.BuildConfig
+com/reactlibrary/TfliteReactNativeModule.java
+ com.reactlibrary.TfliteReactNativeModule
+ com.reactlibrary.TfliteReactNativeModule$1
+ com.reactlibrary.TfliteReactNativeModule$2
+ com.reactlibrary.TfliteReactNativeModule$3
+com/reactlibrary/TfliteReactNativePackage.java
+ com.reactlibrary.TfliteReactNativePackage
