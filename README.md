@@ -1,5 +1,5 @@
 
-# tflite-react-native
+# tflite-rn
 
 A React Native library for accessing TensorFlow Lite API. Supports Classification, Object Detection, Deeplab and PoseNet on both iOS and Android.
 
