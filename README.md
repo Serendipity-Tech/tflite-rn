@@ -3,7 +3,7 @@
 
 A React Native library for accessing TensorFlow Lite API. Supports Classification, Object Detection, Deeplab and PoseNet on both iOS and Android.
 
-Support uint8 type.
+Support float32 type.
 
 ### Table of Contents
 
